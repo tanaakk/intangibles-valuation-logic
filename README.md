@@ -4,7 +4,7 @@
 
 ## ドキュメント
 
-- **[無形資産評価ロジック 場合分け](./docs/intangibles-valuation-logic-case-classification.md)**  
+- **[無形資産評価ロジック 場合分け](./docs/12-intangibles-valuation-case-classification.md)**  
   公正価値算定に関する公的ガイドライン準拠の、株式価値算定方法のロジック分岐仕様。  
   - 資本規模・業績・財務状態に応じたアプローチ選択、DLOM、無形資産特有の評価ロジック  
   - **DCF バリュエーションのロジックフロー**: 過去決算・未来計画 → 将来キャッシュフロー算定 → 割引 → 現在価値（EV / Equity Value）
